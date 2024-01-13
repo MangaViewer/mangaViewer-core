@@ -1,0 +1,1 @@
+# mangaViewer-core
